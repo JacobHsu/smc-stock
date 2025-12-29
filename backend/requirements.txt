@@ -1,0 +1,11 @@
+# 注意: 如果遇到依賴衝突,請使用以下指令安裝:
+# pip install --no-deps smartmoneyconcepts
+
+# 核心依賴 (Python 3.12 相容版本)
+numpy>=1.26.0
+pandas>=2.0.0
+requests>=2.31.0
+
+# SMC 分析套件
+# 注意: 此套件可能要求較舊的 pandas 版本,但實際上可以使用較新版本
+smartmoneyconcepts
