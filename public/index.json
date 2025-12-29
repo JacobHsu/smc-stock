@@ -1,0 +1,44 @@
+{
+  "source": "https://stock-replay-production.up.railway.app/api/stocks/day-trading/losers",
+  "total": 6,
+  "success": 6,
+  "failed": 0,
+  "stocks": [
+    {
+      "code": "8499",
+      "name": "鼎炫-KY",
+      "status": "success",
+      "file": "output/8499.json"
+    },
+    {
+      "code": "3060",
+      "name": "銘異",
+      "status": "success",
+      "file": "output/3060.json"
+    },
+    {
+      "code": "6139",
+      "name": "亞翔",
+      "status": "success",
+      "file": "output/6139.json"
+    },
+    {
+      "code": "6796",
+      "name": "晉弘",
+      "status": "success",
+      "file": "output/6796.json"
+    },
+    {
+      "code": "3006",
+      "name": "晶豪科",
+      "status": "success",
+      "file": "output/3006.json"
+    },
+    {
+      "code": "6873",
+      "name": "泓德能源",
+      "status": "success",
+      "file": "output/6873.json"
+    }
+  ]
+}

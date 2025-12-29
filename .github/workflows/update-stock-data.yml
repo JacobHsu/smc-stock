@@ -1,0 +1,61 @@
+name: Update Stock Data
+
+on:
+  # 台灣時間週一到週五 09:15 (UTC+8)
+  # GitHub Actions 使用 UTC 時間,所以需要減 8 小時 = 01:15 UTC
+  schedule:
+    - cron: '15 1 * * 1-5'  # 週一到週五 01:15 UTC = 09:15 台灣時間
+  
+  # 允許手動觸發
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      
+      - name: Install Python dependencies
+        run: |
+          cd backend
+          pip install numpy>=1.26.0 pandas>=2.0.0 requests>=2.31.0
+          pip install --no-deps smartmoneyconcepts
+      
+      - name: Run stock analysis
+        run: |
+          cd backend
+          python batch_analyzer.py
+      
+      - name: Copy JSON files to public directory
+        run: |
+          cp -f backend/output/*.json public/
+          echo "✅ Copied $(ls backend/output/*.json | wc -l) JSON files to public/"
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet public/*.json || echo "has_changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/*.json
+          git commit -m "🤖 Auto-update stock data - $(TZ='Asia/Taipei' date +'%Y-%m-%d %H:%M %Z')"
+          git push
+      
+      - name: No changes detected
+        if: steps.check_changes.outputs.has_changes != 'true'
+        run: |
+          echo "ℹ️ No changes in stock data, skipping commit"
