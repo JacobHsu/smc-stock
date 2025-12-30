@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "8499",
-      "name": "鼎炫-KY",
+      "code": "2009",
+      "name": "第一銅",
       "status": "success",
-      "file": "output/8499.json"
+      "file": "output/2009.json"
     },
     {
-      "code": "3060",
-      "name": "銘異",
+      "code": "4764",
+      "name": "雙鍵",
       "status": "success",
-      "file": "output/3060.json"
+      "file": "output/4764.json"
     },
     {
-      "code": "6139",
-      "name": "亞翔",
+      "code": "2426",
+      "name": "鼎元",
       "status": "success",
-      "file": "output/6139.json"
+      "file": "output/2426.json"
     },
     {
-      "code": "6796",
-      "name": "晉弘",
+      "code": "1735",
+      "name": "日勝化",
       "status": "success",
-      "file": "output/6796.json"
+      "file": "output/1735.json"
     },
     {
-      "code": "3006",
-      "name": "晶豪科",
+      "code": "4927",
+      "name": "泰鼎-KY",
       "status": "success",
-      "file": "output/3006.json"
+      "file": "output/4927.json"
     },
     {
-      "code": "6873",
-      "name": "泓德能源",
+      "code": "2024",
+      "name": "志聯",
       "status": "success",
-      "file": "output/6873.json"
+      "file": "output/2024.json"
     }
   ]
 }
