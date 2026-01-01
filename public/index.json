@@ -11,10 +11,22 @@
       "file": "output/2493.json"
     },
     {
-      "code": "3055",
-      "name": "蔚華科",
+      "code": "2423",
+      "name": "固緯",
       "status": "success",
-      "file": "output/3055.json"
+      "file": "output/2423.json"
+    },
+    {
+      "code": "2939",
+      "name": "永邑-KY",
+      "status": "success",
+      "file": "output/2939.json"
+    },
+    {
+      "code": "2413",
+      "name": "環科",
+      "status": "success",
+      "file": "output/2413.json"
     },
     {
       "code": "2313",
@@ -23,22 +35,10 @@
       "file": "output/2313.json"
     },
     {
-      "code": "2406",
-      "name": "國碩",
+      "code": "3055",
+      "name": "蔚華科",
       "status": "success",
-      "file": "output/2406.json"
-    },
-    {
-      "code": "2497",
-      "name": "怡利電",
-      "status": "success",
-      "file": "output/2497.json"
-    },
-    {
-      "code": "9910",
-      "name": "豐泰",
-      "status": "success",
-      "file": "output/9910.json"
+      "file": "output/3055.json"
     }
   ]
 }
