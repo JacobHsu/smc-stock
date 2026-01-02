@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "2493",
-      "name": "揚博",
+      "code": "2059",
+      "name": "川湖",
       "status": "success",
-      "file": "output/2493.json"
+      "file": "output/2059.json"
     },
     {
-      "code": "2423",
-      "name": "固緯",
+      "code": "6205",
+      "name": "詮欣",
       "status": "success",
-      "file": "output/2423.json"
+      "file": "output/6205.json"
     },
     {
-      "code": "2939",
-      "name": "永邑-KY",
+      "code": "8210",
+      "name": "勤誠",
       "status": "success",
-      "file": "output/2939.json"
+      "file": "output/8210.json"
     },
     {
-      "code": "2413",
-      "name": "環科",
+      "code": "3701",
+      "name": "大眾控",
       "status": "success",
-      "file": "output/2413.json"
+      "file": "output/3701.json"
     },
     {
-      "code": "2313",
-      "name": "華通",
+      "code": "6805",
+      "name": "富世達",
       "status": "success",
-      "file": "output/2313.json"
+      "file": "output/6805.json"
     },
     {
-      "code": "3055",
-      "name": "蔚華科",
+      "code": "3092",
+      "name": "鴻碩",
       "status": "success",
-      "file": "output/3055.json"
+      "file": "output/3092.json"
     }
   ]
 }
