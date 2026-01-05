@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "2059",
-      "name": "川湖",
+      "code": "6443",
+      "name": "元晶",
       "status": "success",
-      "file": "output/2059.json"
+      "file": "output/6443.json"
     },
     {
-      "code": "6205",
-      "name": "詮欣",
+      "code": "3550",
+      "name": "聯穎",
       "status": "success",
-      "file": "output/6205.json"
+      "file": "output/3550.json"
     },
     {
-      "code": "8210",
-      "name": "勤誠",
+      "code": "8039",
+      "name": "台虹",
       "status": "success",
-      "file": "output/8210.json"
+      "file": "output/8039.json"
     },
     {
-      "code": "3701",
-      "name": "大眾控",
+      "code": "4989",
+      "name": "榮科",
       "status": "success",
-      "file": "output/3701.json"
+      "file": "output/4989.json"
     },
     {
-      "code": "6805",
-      "name": "富世達",
+      "code": "6585",
+      "name": "鼎基",
       "status": "success",
-      "file": "output/6805.json"
+      "file": "output/6585.json"
     },
     {
-      "code": "3092",
-      "name": "鴻碩",
+      "code": "3530",
+      "name": "晶相光",
       "status": "success",
-      "file": "output/3092.json"
+      "file": "output/3530.json"
     }
   ]
 }
