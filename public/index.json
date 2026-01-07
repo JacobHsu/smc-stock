@@ -5,10 +5,16 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "6155",
-      "name": "鈞寶",
+      "code": "3665",
+      "name": "貿聯-KY",
       "status": "success",
-      "file": "output/6155.json"
+      "file": "output/3665.json"
+    },
+    {
+      "code": "2383",
+      "name": "台光電",
+      "status": "success",
+      "file": "output/2383.json"
     },
     {
       "code": "3308",
@@ -17,28 +23,22 @@
       "file": "output/3308.json"
     },
     {
-      "code": "5521",
-      "name": "工信",
+      "code": "3376",
+      "name": "新日興",
       "status": "success",
-      "file": "output/5521.json"
+      "file": "output/3376.json"
     },
     {
-      "code": "5388",
-      "name": "中磊",
+      "code": "2308",
+      "name": "台達電",
       "status": "success",
-      "file": "output/5388.json"
+      "file": "output/2308.json"
     },
     {
-      "code": "6197",
-      "name": "佳必琪",
+      "code": "6909",
+      "name": "創控",
       "status": "success",
-      "file": "output/6197.json"
-    },
-    {
-      "code": "5234",
-      "name": "達興材料",
-      "status": "success",
-      "file": "output/5234.json"
+      "file": "output/6909.json"
     }
   ]
 }
