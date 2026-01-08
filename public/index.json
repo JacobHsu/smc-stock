@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3665",
-      "name": "貿聯-KY",
+      "code": "6166",
+      "name": "凌華",
       "status": "success",
-      "file": "output/3665.json"
+      "file": "output/6166.json"
     },
     {
-      "code": "2383",
-      "name": "台光電",
+      "code": "1727",
+      "name": "中華化",
       "status": "success",
-      "file": "output/2383.json"
+      "file": "output/1727.json"
     },
     {
-      "code": "3308",
-      "name": "聯德",
+      "code": "2939",
+      "name": "永邑-KY",
       "status": "success",
-      "file": "output/3308.json"
+      "file": "output/2939.json"
     },
     {
-      "code": "3376",
-      "name": "新日興",
+      "code": "2342",
+      "name": "茂矽",
       "status": "success",
-      "file": "output/3376.json"
+      "file": "output/2342.json"
     },
     {
-      "code": "2308",
-      "name": "台達電",
+      "code": "2009",
+      "name": "第一銅",
       "status": "success",
-      "file": "output/2308.json"
+      "file": "output/2009.json"
     },
     {
-      "code": "6909",
-      "name": "創控",
+      "code": "8215",
+      "name": "明基材",
       "status": "success",
-      "file": "output/6909.json"
+      "file": "output/8215.json"
     }
   ]
 }
