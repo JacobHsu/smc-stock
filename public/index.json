@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "5515",
-      "name": "建國",
+      "code": "4770",
+      "name": "上品",
       "status": "success",
-      "file": "output/5515.json"
+      "file": "output/4770.json"
     },
     {
-      "code": "4977",
-      "name": "眾達-KY",
+      "code": "2379",
+      "name": "瑞昱",
       "status": "success",
-      "file": "output/4977.json"
+      "file": "output/2379.json"
     },
     {
-      "code": "6706",
-      "name": "惠特",
+      "code": "8996",
+      "name": "高力",
       "status": "success",
-      "file": "output/6706.json"
+      "file": "output/8996.json"
     },
     {
-      "code": "3715",
-      "name": "定穎投控",
+      "code": "2527",
+      "name": "宏璟",
       "status": "success",
-      "file": "output/3715.json"
+      "file": "output/2527.json"
     },
     {
-      "code": "3532",
-      "name": "台勝科",
+      "code": "3149",
+      "name": "正達",
       "status": "success",
-      "file": "output/3532.json"
+      "file": "output/3149.json"
     },
     {
-      "code": "8271",
-      "name": "宇瞻",
+      "code": "7732",
+      "name": "金興精密",
       "status": "success",
-      "file": "output/8271.json"
+      "file": "output/7732.json"
     }
   ]
 }
