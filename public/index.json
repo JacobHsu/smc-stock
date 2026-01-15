@@ -5,16 +5,22 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "4770",
-      "name": "上品",
+      "code": "8422",
+      "name": "可寧衛*",
       "status": "success",
-      "file": "output/4770.json"
+      "file": "output/8422.json"
     },
     {
-      "code": "2379",
-      "name": "瑞昱",
+      "code": "8341",
+      "name": "日友",
       "status": "success",
-      "file": "output/2379.json"
+      "file": "output/8341.json"
+    },
+    {
+      "code": "9955",
+      "name": "佳龍",
+      "status": "success",
+      "file": "output/9955.json"
     },
     {
       "code": "8996",
@@ -23,22 +29,16 @@
       "file": "output/8996.json"
     },
     {
-      "code": "2527",
-      "name": "宏璟",
+      "code": "6674",
+      "name": "鋐寶科技",
       "status": "success",
-      "file": "output/2527.json"
+      "file": "output/6674.json"
     },
     {
-      "code": "3149",
-      "name": "正達",
+      "code": "1504",
+      "name": "東元",
       "status": "success",
-      "file": "output/3149.json"
-    },
-    {
-      "code": "7732",
-      "name": "金興精密",
-      "status": "success",
-      "file": "output/7732.json"
+      "file": "output/1504.json"
     }
   ]
 }
