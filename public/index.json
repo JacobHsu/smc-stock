@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "8422",
-      "name": "可寧衛*",
+      "code": "8499",
+      "name": "鼎炫-KY",
       "status": "success",
-      "file": "output/8422.json"
+      "file": "output/8499.json"
     },
     {
-      "code": "6641",
-      "name": "基士德-KY",
+      "code": "4764",
+      "name": "雙鍵",
       "status": "success",
-      "file": "output/6641.json"
+      "file": "output/4764.json"
     },
     {
-      "code": "8476",
-      "name": "台境*",
+      "code": "2368",
+      "name": "金像電",
       "status": "success",
-      "file": "output/8476.json"
+      "file": "output/2368.json"
     },
     {
-      "code": "6155",
-      "name": "鈞寶",
+      "code": "3665",
+      "name": "貿聯-KY",
       "status": "success",
-      "file": "output/6155.json"
+      "file": "output/3665.json"
     },
     {
-      "code": "2419",
-      "name": "仲琦",
+      "code": "2404",
+      "name": "漢唐",
       "status": "success",
-      "file": "output/2419.json"
+      "file": "output/2404.json"
     },
     {
-      "code": "3054",
-      "name": "立萬利",
+      "code": "3231",
+      "name": "緯創",
       "status": "success",
-      "file": "output/3054.json"
+      "file": "output/3231.json"
     }
   ]
 }
