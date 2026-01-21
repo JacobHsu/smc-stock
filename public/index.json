@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "1308",
-      "name": "亞聚",
+      "code": "6706",
+      "name": "惠特",
       "status": "success",
-      "file": "output/1308.json"
+      "file": "output/6706.json"
     },
     {
-      "code": "2427",
-      "name": "三商電",
+      "code": "6409",
+      "name": "旭隼",
       "status": "success",
-      "file": "output/2427.json"
+      "file": "output/6409.json"
     },
     {
-      "code": "4915",
-      "name": "致伸",
+      "code": "2441",
+      "name": "超豐",
       "status": "success",
-      "file": "output/4915.json"
+      "file": "output/2441.json"
     },
     {
-      "code": "6806",
-      "name": "森崴能源",
+      "code": "3533",
+      "name": "嘉澤",
       "status": "success",
-      "file": "output/6806.json"
+      "file": "output/3533.json"
     },
     {
-      "code": "2489",
-      "name": "瑞軒",
+      "code": "6906",
+      "name": "現觀科",
       "status": "success",
-      "file": "output/2489.json"
+      "file": "output/6906.json"
     },
     {
-      "code": "4142",
-      "name": "國光生",
+      "code": "1521",
+      "name": "大億",
       "status": "success",
-      "file": "output/4142.json"
+      "file": "output/1521.json"
     }
   ]
 }
