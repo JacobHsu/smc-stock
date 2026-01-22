@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "6706",
-      "name": "惠特",
+      "code": "4739",
+      "name": "康普",
       "status": "success",
-      "file": "output/6706.json"
+      "file": "output/4739.json"
     },
     {
-      "code": "6409",
-      "name": "旭隼",
+      "code": "1473",
+      "name": "台南",
       "status": "success",
-      "file": "output/6409.json"
+      "file": "output/1473.json"
     },
     {
-      "code": "2441",
-      "name": "超豐",
+      "code": "1526",
+      "name": "日馳",
       "status": "success",
-      "file": "output/2441.json"
+      "file": "output/1526.json"
     },
     {
-      "code": "3533",
-      "name": "嘉澤",
+      "code": "9955",
+      "name": "佳龍",
       "status": "success",
-      "file": "output/3533.json"
+      "file": "output/9955.json"
     },
     {
-      "code": "6906",
-      "name": "現觀科",
+      "code": "1809",
+      "name": "中釉",
       "status": "success",
-      "file": "output/6906.json"
+      "file": "output/1809.json"
     },
     {
-      "code": "1521",
-      "name": "大億",
+      "code": "2467",
+      "name": "志聖",
       "status": "success",
-      "file": "output/1521.json"
+      "file": "output/2467.json"
     }
   ]
 }
