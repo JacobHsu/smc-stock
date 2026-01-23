@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "4739",
-      "name": "康普",
+      "code": "2369",
+      "name": "菱生",
       "status": "success",
-      "file": "output/4739.json"
+      "file": "output/2369.json"
     },
     {
-      "code": "1473",
-      "name": "台南",
+      "code": "2342",
+      "name": "茂矽",
       "status": "success",
-      "file": "output/1473.json"
+      "file": "output/2342.json"
     },
     {
-      "code": "1526",
-      "name": "日馳",
+      "code": "2457",
+      "name": "飛宏",
       "status": "success",
-      "file": "output/1526.json"
+      "file": "output/2457.json"
     },
     {
-      "code": "9955",
-      "name": "佳龍",
+      "code": "6155",
+      "name": "鈞寶",
       "status": "success",
-      "file": "output/9955.json"
+      "file": "output/6155.json"
     },
     {
-      "code": "1809",
-      "name": "中釉",
+      "code": "5521",
+      "name": "工信",
       "status": "success",
-      "file": "output/1809.json"
+      "file": "output/5521.json"
     },
     {
-      "code": "2467",
-      "name": "志聖",
+      "code": "3481",
+      "name": "群創",
       "status": "success",
-      "file": "output/2467.json"
+      "file": "output/3481.json"
     }
   ]
 }
