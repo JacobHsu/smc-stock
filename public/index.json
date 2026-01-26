@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "2369",
-      "name": "菱生",
+      "code": "7780",
+      "name": "大研生醫",
       "status": "success",
-      "file": "output/2369.json"
+      "file": "output/7780.json"
     },
     {
-      "code": "2342",
-      "name": "茂矽",
+      "code": "5292",
+      "name": "華懋",
       "status": "success",
-      "file": "output/2342.json"
+      "file": "output/5292.json"
     },
     {
-      "code": "2457",
-      "name": "飛宏",
+      "code": "6919",
+      "name": "康霈*",
       "status": "success",
-      "file": "output/2457.json"
+      "file": "output/6919.json"
     },
     {
-      "code": "6155",
-      "name": "鈞寶",
+      "code": "6838",
+      "name": "台新藥",
       "status": "success",
-      "file": "output/6155.json"
+      "file": "output/6838.json"
     },
     {
-      "code": "5521",
-      "name": "工信",
+      "code": "1773",
+      "name": "勝一",
       "status": "success",
-      "file": "output/5521.json"
+      "file": "output/1773.json"
     },
     {
-      "code": "3481",
-      "name": "群創",
+      "code": "3338",
+      "name": "泰碩",
       "status": "success",
-      "file": "output/3481.json"
+      "file": "output/3338.json"
     }
   ]
 }
