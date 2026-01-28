@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "2515",
-      "name": "中工",
+      "code": "2441",
+      "name": "超豐",
       "status": "success",
-      "file": "output/2515.json"
+      "file": "output/2441.json"
     },
     {
-      "code": "4976",
-      "name": "佳凌",
+      "code": "6209",
+      "name": "今國光",
       "status": "success",
-      "file": "output/4976.json"
+      "file": "output/6209.json"
     },
     {
-      "code": "3481",
-      "name": "群創",
+      "code": "1337",
+      "name": "再生-KY",
       "status": "success",
-      "file": "output/3481.json"
+      "file": "output/1337.json"
     },
     {
-      "code": "6153",
-      "name": "嘉聯益",
+      "code": "6641",
+      "name": "基士德-KY",
       "status": "success",
-      "file": "output/6153.json"
+      "file": "output/6641.json"
     },
     {
-      "code": "3338",
-      "name": "泰碩",
+      "code": "2489",
+      "name": "瑞軒",
       "status": "success",
-      "file": "output/3338.json"
+      "file": "output/2489.json"
     },
     {
-      "code": "8131",
-      "name": "福懋科",
+      "code": "8438",
+      "name": "昶昕",
       "status": "success",
-      "file": "output/8131.json"
+      "file": "output/8438.json"
     }
   ]
 }
