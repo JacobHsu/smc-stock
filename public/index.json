@@ -5,10 +5,10 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "1325",
-      "name": "恆大",
+      "code": "3025",
+      "name": "星通",
       "status": "success",
-      "file": "output/1325.json"
+      "file": "output/3025.json"
     },
     {
       "code": "2303",
@@ -17,28 +17,28 @@
       "file": "output/2303.json"
     },
     {
-      "code": "6423",
-      "name": "億而得-創",
+      "code": "3530",
+      "name": "晶相光",
       "status": "success",
-      "file": "output/6423.json"
+      "file": "output/3530.json"
     },
     {
-      "code": "6168",
-      "name": "宏齊",
+      "code": "6657",
+      "name": "華安",
       "status": "success",
-      "file": "output/6168.json"
+      "file": "output/6657.json"
     },
     {
-      "code": "9919",
-      "name": "康那香",
+      "code": "2374",
+      "name": "佳能",
       "status": "success",
-      "file": "output/9919.json"
+      "file": "output/2374.json"
     },
     {
-      "code": "6504",
-      "name": "南六",
+      "code": "2486",
+      "name": "一詮",
       "status": "success",
-      "file": "output/6504.json"
+      "file": "output/2486.json"
     }
   ]
 }
