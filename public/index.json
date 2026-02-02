@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3025",
-      "name": "星通",
+      "code": "3481",
+      "name": "群創",
       "status": "success",
-      "file": "output/3025.json"
+      "file": "output/3481.json"
     },
     {
-      "code": "2303",
-      "name": "聯電",
+      "code": "2027",
+      "name": "大成鋼",
       "status": "success",
-      "file": "output/2303.json"
+      "file": "output/2027.json"
     },
     {
-      "code": "3530",
-      "name": "晶相光",
+      "code": "8112",
+      "name": "至上",
       "status": "success",
-      "file": "output/3530.json"
+      "file": "output/8112.json"
     },
     {
-      "code": "6657",
-      "name": "華安",
+      "code": "3231",
+      "name": "緯創",
       "status": "success",
-      "file": "output/6657.json"
+      "file": "output/3231.json"
     },
     {
-      "code": "2374",
-      "name": "佳能",
+      "code": "3006",
+      "name": "晶豪科",
       "status": "success",
-      "file": "output/2374.json"
+      "file": "output/3006.json"
     },
     {
-      "code": "2486",
-      "name": "一詮",
+      "code": "3060",
+      "name": "銘異",
       "status": "success",
-      "file": "output/2486.json"
+      "file": "output/3060.json"
     }
   ]
 }
