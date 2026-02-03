@@ -5,16 +5,22 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3481",
-      "name": "群創",
+      "code": "4133",
+      "name": "亞諾法",
       "status": "success",
-      "file": "output/3481.json"
+      "file": "output/4133.json"
     },
     {
-      "code": "2027",
-      "name": "大成鋼",
+      "code": "2014",
+      "name": "中鴻",
       "status": "success",
-      "file": "output/2027.json"
+      "file": "output/2014.json"
+    },
+    {
+      "code": "6504",
+      "name": "南六",
+      "status": "success",
+      "file": "output/6504.json"
     },
     {
       "code": "8112",
@@ -23,22 +29,16 @@
       "file": "output/8112.json"
     },
     {
-      "code": "3231",
-      "name": "緯創",
+      "code": "6426",
+      "name": "統新",
       "status": "success",
-      "file": "output/3231.json"
+      "file": "output/6426.json"
     },
     {
-      "code": "3006",
-      "name": "晶豪科",
+      "code": "1475",
+      "name": "業旺",
       "status": "success",
-      "file": "output/3006.json"
-    },
-    {
-      "code": "3060",
-      "name": "銘異",
-      "status": "success",
-      "file": "output/3060.json"
+      "file": "output/1475.json"
     }
   ]
 }
