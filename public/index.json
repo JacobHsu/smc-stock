@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "4133",
-      "name": "亞諾法",
+      "code": "3028",
+      "name": "增你強",
       "status": "success",
-      "file": "output/4133.json"
+      "file": "output/3028.json"
     },
     {
-      "code": "2014",
-      "name": "中鴻",
+      "code": "6552",
+      "name": "易華電",
       "status": "success",
-      "file": "output/2014.json"
+      "file": "output/6552.json"
     },
     {
-      "code": "6504",
-      "name": "南六",
+      "code": "2419",
+      "name": "仲琦",
       "status": "success",
-      "file": "output/6504.json"
+      "file": "output/2419.json"
     },
     {
-      "code": "8112",
-      "name": "至上",
+      "code": "3665",
+      "name": "貿聯-KY",
       "status": "success",
-      "file": "output/8112.json"
+      "file": "output/3665.json"
     },
     {
-      "code": "6426",
-      "name": "統新",
+      "code": "3380",
+      "name": "明泰",
       "status": "success",
-      "file": "output/6426.json"
+      "file": "output/3380.json"
     },
     {
-      "code": "1475",
-      "name": "業旺",
+      "code": "6415",
+      "name": "矽力*-KY",
       "status": "success",
-      "file": "output/1475.json"
+      "file": "output/6415.json"
     }
   ]
 }
