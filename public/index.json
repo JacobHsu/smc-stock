@@ -5,28 +5,10 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "4949",
-      "name": "有成精密",
+      "code": "5292",
+      "name": "華懋",
       "status": "success",
-      "file": "output/4949.json"
-    },
-    {
-      "code": "2406",
-      "name": "國碩",
-      "status": "success",
-      "file": "output/2406.json"
-    },
-    {
-      "code": "8210",
-      "name": "勤誠",
-      "status": "success",
-      "file": "output/8210.json"
-    },
-    {
-      "code": "3669",
-      "name": "圓展",
-      "status": "success",
-      "file": "output/3669.json"
+      "file": "output/5292.json"
     },
     {
       "code": "3025",
@@ -35,10 +17,28 @@
       "file": "output/3025.json"
     },
     {
-      "code": "6285",
-      "name": "啟碁",
+      "code": "6906",
+      "name": "現觀科",
       "status": "success",
-      "file": "output/6285.json"
+      "file": "output/6906.json"
+    },
+    {
+      "code": "3257",
+      "name": "虹冠電",
+      "status": "success",
+      "file": "output/3257.json"
+    },
+    {
+      "code": "5203",
+      "name": "訊連",
+      "status": "success",
+      "file": "output/5203.json"
+    },
+    {
+      "code": "8422",
+      "name": "可寧衛*",
+      "status": "success",
+      "file": "output/8422.json"
     }
   ]
 }
