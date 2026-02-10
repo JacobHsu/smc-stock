@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "5292",
-      "name": "華懋",
+      "code": "6854",
+      "name": "錼創科技-KY創",
       "status": "success",
-      "file": "output/5292.json"
+      "file": "output/6854.json"
     },
     {
-      "code": "3025",
-      "name": "星通",
+      "code": "2731",
+      "name": "雄獅",
       "status": "success",
-      "file": "output/3025.json"
+      "file": "output/2731.json"
     },
     {
-      "code": "6906",
-      "name": "現觀科",
+      "code": "7780",
+      "name": "大研生醫",
       "status": "success",
-      "file": "output/6906.json"
+      "file": "output/7780.json"
     },
     {
-      "code": "3257",
-      "name": "虹冠電",
+      "code": "3006",
+      "name": "晶豪科",
       "status": "success",
-      "file": "output/3257.json"
+      "file": "output/3006.json"
     },
     {
-      "code": "5203",
-      "name": "訊連",
+      "code": "3138",
+      "name": "耀登",
       "status": "success",
-      "file": "output/5203.json"
+      "file": "output/3138.json"
     },
     {
-      "code": "8422",
-      "name": "可寧衛*",
+      "code": "6919",
+      "name": "康霈*",
       "status": "success",
-      "file": "output/8422.json"
+      "file": "output/6919.json"
     }
   ]
 }
