@@ -5,28 +5,28 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "6854",
-      "name": "錼創科技-KY創",
+      "code": "3308",
+      "name": "聯德",
       "status": "success",
-      "file": "output/6854.json"
+      "file": "output/3308.json"
     },
     {
-      "code": "2731",
-      "name": "雄獅",
+      "code": "6472",
+      "name": "保瑞",
       "status": "success",
-      "file": "output/2731.json"
+      "file": "output/6472.json"
     },
     {
-      "code": "7780",
-      "name": "大研生醫",
+      "code": "4977",
+      "name": "眾達-KY",
       "status": "success",
-      "file": "output/7780.json"
+      "file": "output/4977.json"
     },
     {
-      "code": "3006",
-      "name": "晶豪科",
+      "code": "1795",
+      "name": "美時",
       "status": "success",
-      "file": "output/3006.json"
+      "file": "output/1795.json"
     },
     {
       "code": "3138",
@@ -35,10 +35,10 @@
       "file": "output/3138.json"
     },
     {
-      "code": "6919",
-      "name": "康霈*",
+      "code": "6890",
+      "name": "來億-KY",
       "status": "success",
-      "file": "output/6919.json"
+      "file": "output/6890.json"
     }
   ]
 }
