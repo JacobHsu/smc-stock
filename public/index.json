@@ -5,10 +5,10 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3308",
-      "name": "聯德",
+      "code": "1795",
+      "name": "美時",
       "status": "success",
-      "file": "output/3308.json"
+      "file": "output/1795.json"
     },
     {
       "code": "6472",
@@ -17,28 +17,28 @@
       "file": "output/6472.json"
     },
     {
+      "code": "3308",
+      "name": "聯德",
+      "status": "success",
+      "file": "output/3308.json"
+    },
+    {
       "code": "4977",
       "name": "眾達-KY",
       "status": "success",
       "file": "output/4977.json"
     },
     {
-      "code": "1795",
-      "name": "美時",
+      "code": "6994",
+      "name": "富威電力",
       "status": "success",
-      "file": "output/1795.json"
+      "file": "output/6994.json"
     },
     {
-      "code": "3138",
-      "name": "耀登",
+      "code": "1522",
+      "name": "堤維西",
       "status": "success",
-      "file": "output/3138.json"
-    },
-    {
-      "code": "6890",
-      "name": "來億-KY",
-      "status": "success",
-      "file": "output/6890.json"
+      "file": "output/1522.json"
     }
   ]
 }
