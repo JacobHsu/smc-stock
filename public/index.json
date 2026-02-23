@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "1795",
-      "name": "美時",
+      "code": "8488",
+      "name": "吉源-KY",
       "status": "success",
-      "file": "output/1795.json"
+      "file": "output/8488.json"
     },
     {
-      "code": "6472",
-      "name": "保瑞",
+      "code": "8103",
+      "name": "瀚荃",
       "status": "success",
-      "file": "output/6472.json"
+      "file": "output/8103.json"
     },
     {
-      "code": "3308",
-      "name": "聯德",
+      "code": "8210",
+      "name": "勤誠",
       "status": "success",
-      "file": "output/3308.json"
+      "file": "output/8210.json"
     },
     {
-      "code": "4977",
-      "name": "眾達-KY",
+      "code": "2247",
+      "name": "汎德永業",
       "status": "success",
-      "file": "output/4977.json"
+      "file": "output/2247.json"
     },
     {
-      "code": "6994",
-      "name": "富威電力",
+      "code": "6515",
+      "name": "穎崴",
       "status": "success",
-      "file": "output/6994.json"
+      "file": "output/6515.json"
     },
     {
-      "code": "1522",
-      "name": "堤維西",
+      "code": "2345",
+      "name": "智邦",
       "status": "success",
-      "file": "output/1522.json"
+      "file": "output/2345.json"
     }
   ]
 }
