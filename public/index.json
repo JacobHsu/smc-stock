@@ -17,28 +17,28 @@
       "file": "output/2301.json"
     },
     {
-      "code": "6863",
-      "name": "永道-KY",
-      "status": "success",
-      "file": "output/6863.json"
-    },
-    {
-      "code": "5234",
-      "name": "達興材料",
-      "status": "success",
-      "file": "output/5234.json"
-    },
-    {
       "code": "5203",
       "name": "訊連",
       "status": "success",
       "file": "output/5203.json"
     },
     {
+      "code": "6863",
+      "name": "永道-KY",
+      "status": "success",
+      "file": "output/6863.json"
+    },
+    {
       "code": "4967",
       "name": "十銓",
       "status": "success",
       "file": "output/4967.json"
+    },
+    {
+      "code": "6794",
+      "name": "向榮生技",
+      "status": "success",
+      "file": "output/6794.json"
     }
   ]
 }
