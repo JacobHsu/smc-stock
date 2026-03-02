@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
+      "code": "3545",
+      "name": "敦泰",
+      "status": "success",
+      "file": "output/3545.json"
+    },
+    {
       "code": "6176",
       "name": "瑞儀",
       "status": "success",
       "file": "output/6176.json"
     },
     {
-      "code": "2301",
-      "name": "光寶科",
+      "code": "5234",
+      "name": "達興材料",
       "status": "success",
-      "file": "output/2301.json"
+      "file": "output/5234.json"
+    },
+    {
+      "code": "2493",
+      "name": "揚博",
+      "status": "success",
+      "file": "output/2493.json"
+    },
+    {
+      "code": "6257",
+      "name": "矽格",
+      "status": "success",
+      "file": "output/6257.json"
     },
     {
       "code": "5203",
       "name": "訊連",
       "status": "success",
       "file": "output/5203.json"
-    },
-    {
-      "code": "6863",
-      "name": "永道-KY",
-      "status": "success",
-      "file": "output/6863.json"
-    },
-    {
-      "code": "4967",
-      "name": "十銓",
-      "status": "success",
-      "file": "output/4967.json"
-    },
-    {
-      "code": "6794",
-      "name": "向榮生技",
-      "status": "success",
-      "file": "output/6794.json"
     }
   ]
 }
