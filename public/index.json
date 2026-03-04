@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "8438",
-      "name": "昶昕",
+      "code": "3450",
+      "name": "聯鈞",
       "status": "success",
-      "file": "output/8438.json"
+      "file": "output/3450.json"
     },
     {
-      "code": "6862",
-      "name": "三集瑞-KY",
+      "code": "8039",
+      "name": "台虹",
       "status": "success",
-      "file": "output/6862.json"
+      "file": "output/8039.json"
     },
     {
-      "code": "2344",
-      "name": "華邦電",
+      "code": "1711",
+      "name": "永光",
       "status": "success",
-      "file": "output/2344.json"
+      "file": "output/1711.json"
     },
     {
-      "code": "3481",
-      "name": "群創",
+      "code": "3701",
+      "name": "大眾控",
       "status": "success",
-      "file": "output/3481.json"
+      "file": "output/3701.json"
     },
     {
-      "code": "6770",
-      "name": "力積電",
+      "code": "6451",
+      "name": "訊芯-KY",
       "status": "success",
-      "file": "output/6770.json"
+      "file": "output/6451.json"
     },
     {
-      "code": "2360",
-      "name": "致茂",
+      "code": "6456",
+      "name": "GIS-KY",
       "status": "success",
-      "file": "output/2360.json"
+      "file": "output/6456.json"
     }
   ]
 }
