@@ -5,22 +5,28 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3450",
-      "name": "聯鈞",
+      "code": "6994",
+      "name": "富威電力",
       "status": "success",
-      "file": "output/3450.json"
+      "file": "output/6994.json"
     },
     {
-      "code": "8039",
-      "name": "台虹",
+      "code": "4807",
+      "name": "日成-KY",
       "status": "success",
-      "file": "output/8039.json"
+      "file": "output/4807.json"
     },
     {
-      "code": "1711",
-      "name": "永光",
+      "code": "6505",
+      "name": "台塑化",
       "status": "success",
-      "file": "output/1711.json"
+      "file": "output/6505.json"
+    },
+    {
+      "code": "6757",
+      "name": "台灣虎航",
+      "status": "success",
+      "file": "output/6757.json"
     },
     {
       "code": "3701",
@@ -29,16 +35,10 @@
       "file": "output/3701.json"
     },
     {
-      "code": "6451",
-      "name": "訊芯-KY",
+      "code": "9926",
+      "name": "新海",
       "status": "success",
-      "file": "output/6451.json"
-    },
-    {
-      "code": "6456",
-      "name": "GIS-KY",
-      "status": "success",
-      "file": "output/6456.json"
+      "file": "output/9926.json"
     }
   ]
 }
