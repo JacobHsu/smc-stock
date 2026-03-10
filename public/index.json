@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "0052",
-      "name": "富邦科技",
-      "status": "success",
-      "file": "output/0052.json"
-    },
-    {
-      "code": "1303",
-      "name": "南亞",
-      "status": "success",
-      "file": "output/1303.json"
-    },
-    {
-      "code": "1442",
-      "name": "名軒",
-      "status": "success",
-      "file": "output/1442.json"
-    },
-    {
-      "code": "0050",
-      "name": "元大台灣50",
-      "status": "success",
-      "file": "output/0050.json"
-    },
-    {
       "code": "9908",
       "name": "大台北",
       "status": "success",
       "file": "output/9908.json"
     },
     {
-      "code": "2301",
-      "name": "光寶科",
+      "code": "6505",
+      "name": "台塑化",
       "status": "success",
-      "file": "output/2301.json"
+      "file": "output/6505.json"
+    },
+    {
+      "code": "9926",
+      "name": "新海",
+      "status": "success",
+      "file": "output/9926.json"
+    },
+    {
+      "code": "9918",
+      "name": "欣天然",
+      "status": "success",
+      "file": "output/9918.json"
+    },
+    {
+      "code": "9931",
+      "name": "欣高",
+      "status": "success",
+      "file": "output/9931.json"
+    },
+    {
+      "code": "5521",
+      "name": "工信",
+      "status": "success",
+      "file": "output/5521.json"
     }
   ]
 }

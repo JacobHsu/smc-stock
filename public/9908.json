@@ -1,10 +1,10 @@
 {
   "symbol": "9908",
-  "generated_at": "2026-03-09T01:52:53.661373",
+  "generated_at": "2026-03-10T01:52:40.477817",
   "data_range": {
     "start": "2025-11-10",
-    "end": "2026-03-06",
-    "count": 75
+    "end": "2026-03-09",
+    "count": 76
   },
   "candles": [
     {
@@ -606,6 +606,14 @@
       "low": 31.45,
       "close": 31.95,
       "volume": 5169589
+    },
+    {
+      "date": "2026-03-09",
+      "open": 33.3,
+      "high": 35.1,
+      "low": 33.3,
+      "close": 34.5,
+      "volume": 19358223
     }
   ],
   "swing_points": [
@@ -774,6 +782,14 @@
       "top": 30.7,
       "bottom": 30.25,
       "start_index": 70
+    },
+    {
+      "index": 75,
+      "date": "2026-03-09",
+      "type": "bullish",
+      "top": 33.3,
+      "bottom": 31.75,
+      "start_index": 73
     }
   ],
   "bos_choch": [
@@ -788,12 +804,12 @@
   "setup": {
     "direction": "WAIT",
     "entry_zone": [
-      31.31,
-      32.59
+      33.81,
+      35.19
     ],
-    "sl": 30.35,
-    "tp": 35.15,
+    "sl": 32.77,
+    "tp": 37.95,
     "rr": 2.0,
-    "latest_close": 31.95
+    "latest_close": 34.5
   }
 }
