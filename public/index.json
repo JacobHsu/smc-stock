@@ -5,24 +5,6 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "9908",
-      "name": "大台北",
-      "status": "success",
-      "file": "output/9908.json"
-    },
-    {
-      "code": "6505",
-      "name": "台塑化",
-      "status": "success",
-      "file": "output/6505.json"
-    },
-    {
-      "code": "9926",
-      "name": "新海",
-      "status": "success",
-      "file": "output/9926.json"
-    },
-    {
       "code": "9918",
       "name": "欣天然",
       "status": "success",
@@ -39,6 +21,24 @@
       "name": "工信",
       "status": "success",
       "file": "output/5521.json"
+    },
+    {
+      "code": "6505",
+      "name": "台塑化",
+      "status": "success",
+      "file": "output/6505.json"
+    },
+    {
+      "code": "6192",
+      "name": "巨路",
+      "status": "success",
+      "file": "output/6192.json"
+    },
+    {
+      "code": "3703",
+      "name": "欣陸",
+      "status": "success",
+      "file": "output/3703.json"
     }
   ]
 }
