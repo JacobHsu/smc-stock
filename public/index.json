@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "1522",
-      "name": "堤維西",
+      "code": "3030",
+      "name": "德律",
       "status": "success",
-      "file": "output/1522.json"
+      "file": "output/3030.json"
     },
     {
-      "code": "1795",
-      "name": "美時",
+      "code": "3167",
+      "name": "大量",
       "status": "success",
-      "file": "output/1795.json"
+      "file": "output/3167.json"
     },
     {
-      "code": "3481",
-      "name": "群創",
+      "code": "8442",
+      "name": "威宏-KY",
       "status": "success",
-      "file": "output/3481.json"
+      "file": "output/8442.json"
     },
     {
-      "code": "8438",
-      "name": "昶昕",
+      "code": "6205",
+      "name": "詮欣",
       "status": "success",
-      "file": "output/8438.json"
+      "file": "output/6205.json"
     },
     {
-      "code": "6456",
-      "name": "GIS-KY",
+      "code": "8463",
+      "name": "潤泰材",
       "status": "success",
-      "file": "output/6456.json"
+      "file": "output/8463.json"
     },
     {
-      "code": "1603",
-      "name": "華電",
+      "code": "3715",
+      "name": "定穎投控",
       "status": "success",
-      "file": "output/1603.json"
+      "file": "output/3715.json"
     }
   ]
 }
