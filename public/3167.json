@@ -1,10 +1,10 @@
 {
   "symbol": "3167",
-  "generated_at": "2026-03-16T01:53:19.050616",
+  "generated_at": "2026-03-17T01:52:54.481464",
   "data_range": {
     "start": "2025-11-17",
-    "end": "2026-03-13",
-    "count": 75
+    "end": "2026-03-16",
+    "count": 76
   },
   "candles": [
     {
@@ -606,6 +606,14 @@
       "low": 356.0,
       "close": 390.5,
       "volume": 8981729
+    },
+    {
+      "date": "2026-03-16",
+      "open": 366.5,
+      "high": 380.0,
+      "low": 351.5,
+      "close": 367.0,
+      "volume": 15891345
     }
   ],
   "swing_points": [
@@ -674,6 +682,12 @@
       "date": "2026-03-03",
       "type": "swing_high",
       "level": 319.0
+    },
+    {
+      "index": 70,
+      "date": "2026-03-09",
+      "type": "swing_low",
+      "level": 262.0
     }
   ],
   "fvg": [
@@ -864,14 +878,14 @@
     }
   ],
   "setup": {
-    "direction": "WAIT",
+    "direction": "LONG",
     "entry_zone": [
-      382.69,
-      398.31
+      260.69,
+      263.31
     ],
-    "sl": 370.97,
-    "tp": 429.55,
-    "rr": 2.0,
-    "latest_close": 390.5
+    "sl": 201.0,
+    "tp": 319.0,
+    "rr": 0.9,
+    "latest_close": 367.0
   }
 }

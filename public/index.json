@@ -5,10 +5,28 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "3030",
-      "name": "德律",
+      "code": "9918",
+      "name": "欣天然",
       "status": "success",
-      "file": "output/3030.json"
+      "file": "output/9918.json"
+    },
+    {
+      "code": "9931",
+      "name": "欣高",
+      "status": "success",
+      "file": "output/9931.json"
+    },
+    {
+      "code": "4960",
+      "name": "誠美材",
+      "status": "success",
+      "file": "output/4960.json"
+    },
+    {
+      "code": "2939",
+      "name": "永邑-KY",
+      "status": "success",
+      "file": "output/2939.json"
     },
     {
       "code": "3167",
@@ -17,28 +35,10 @@
       "file": "output/3167.json"
     },
     {
-      "code": "8442",
-      "name": "威宏-KY",
+      "code": "4148",
+      "name": "全宇生技-KY",
       "status": "success",
-      "file": "output/8442.json"
-    },
-    {
-      "code": "6205",
-      "name": "詮欣",
-      "status": "success",
-      "file": "output/6205.json"
-    },
-    {
-      "code": "8463",
-      "name": "潤泰材",
-      "status": "success",
-      "file": "output/8463.json"
-    },
-    {
-      "code": "3715",
-      "name": "定穎投控",
-      "status": "success",
-      "file": "output/3715.json"
+      "file": "output/4148.json"
     }
   ]
 }
