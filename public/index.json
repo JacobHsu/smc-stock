@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "9918",
-      "name": "欣天然",
+      "code": "8215",
+      "name": "明基材",
       "status": "success",
-      "file": "output/9918.json"
+      "file": "output/8215.json"
     },
     {
-      "code": "9931",
-      "name": "欣高",
+      "code": "2207",
+      "name": "和泰車",
       "status": "success",
-      "file": "output/9931.json"
+      "file": "output/2207.json"
     },
     {
-      "code": "4960",
-      "name": "誠美材",
+      "code": "6456",
+      "name": "GIS-KY",
       "status": "success",
-      "file": "output/4960.json"
+      "file": "output/6456.json"
     },
     {
-      "code": "2939",
-      "name": "永邑-KY",
+      "code": "2421",
+      "name": "建準",
       "status": "success",
-      "file": "output/2939.json"
+      "file": "output/2421.json"
     },
     {
-      "code": "3167",
-      "name": "大量",
+      "code": "6834",
+      "name": "天二科技",
       "status": "success",
-      "file": "output/3167.json"
+      "file": "output/6834.json"
     },
     {
-      "code": "4148",
-      "name": "全宇生技-KY",
+      "code": "3701",
+      "name": "大眾控",
       "status": "success",
-      "file": "output/4148.json"
+      "file": "output/3701.json"
     }
   ]
 }
