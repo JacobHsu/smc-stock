@@ -5,28 +5,22 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "6533",
-      "name": "晶心科",
+      "code": "2489",
+      "name": "瑞軒",
       "status": "success",
-      "file": "output/6533.json"
+      "file": "output/2489.json"
     },
     {
-      "code": "1795",
-      "name": "美時",
+      "code": "4764",
+      "name": "雙鍵",
       "status": "success",
-      "file": "output/1795.json"
+      "file": "output/4764.json"
     },
     {
-      "code": "2426",
-      "name": "鼎元",
+      "code": "3715",
+      "name": "定穎投控",
       "status": "success",
-      "file": "output/2426.json"
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "status": "success",
-      "file": "output/3006.json"
+      "file": "output/3715.json"
     },
     {
       "code": "2344",
@@ -35,10 +29,16 @@
       "file": "output/2344.json"
     },
     {
-      "code": "6472",
-      "name": "保瑞",
+      "code": "3006",
+      "name": "晶豪科",
       "status": "success",
-      "file": "output/6472.json"
+      "file": "output/3006.json"
+    },
+    {
+      "code": "4967",
+      "name": "十銓",
+      "status": "success",
+      "file": "output/4967.json"
     }
   ]
 }
