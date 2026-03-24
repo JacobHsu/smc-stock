@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
+      "code": "2939",
+      "name": "永邑-KY",
+      "status": "success",
+      "file": "output/2939.json"
+    },
+    {
+      "code": "3135",
+      "name": "凌航",
+      "status": "success",
+      "file": "output/3135.json"
+    },
+    {
       "code": "8996",
       "name": "高力",
       "status": "success",
       "file": "output/8996.json"
     },
     {
-      "code": "2489",
-      "name": "瑞軒",
+      "code": "6230",
+      "name": "尼得科超眾",
       "status": "success",
-      "file": "output/2489.json"
+      "file": "output/6230.json"
     },
     {
-      "code": "6861",
-      "name": "睿生光電",
+      "code": "6770",
+      "name": "力積電",
       "status": "success",
-      "file": "output/6861.json"
+      "file": "output/6770.json"
     },
     {
-      "code": "1809",
-      "name": "中釉",
+      "code": "7769",
+      "name": "鴻勁",
       "status": "success",
-      "file": "output/1809.json"
-    },
-    {
-      "code": "2451",
-      "name": "創見",
-      "status": "success",
-      "file": "output/2451.json"
-    },
-    {
-      "code": "1449",
-      "name": "佳和",
-      "status": "success",
-      "file": "output/1449.json"
+      "file": "output/7769.json"
     }
   ]
 }

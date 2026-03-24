@@ -1,10 +1,10 @@
 {
   "symbol": "8996",
-  "generated_at": "2026-03-23T01:52:59.007501",
+  "generated_at": "2026-03-24T01:52:46.846200",
   "data_range": {
     "start": "2025-11-24",
-    "end": "2026-03-20",
-    "count": 75
+    "end": "2026-03-23",
+    "count": 76
   },
   "candles": [
     {
@@ -606,6 +606,14 @@
       "low": 909.0,
       "close": 911.0,
       "volume": 5996854
+    },
+    {
+      "date": "2026-03-23",
+      "open": 820.0,
+      "high": 833.0,
+      "low": 820.0,
+      "close": 820.0,
+      "volume": 3506645
     }
   ],
   "swing_points": [
@@ -904,18 +912,26 @@
       "top": 892.0,
       "bottom": 838.0,
       "start_index": 67
+    },
+    {
+      "index": 75,
+      "date": "2026-03-23",
+      "type": "bearish",
+      "top": 937.0,
+      "bottom": 833.0,
+      "start_index": 73
     }
   ],
   "bos_choch": [],
   "setup": {
     "direction": "WAIT",
     "entry_zone": [
-      892.78,
-      929.22
+      803.6,
+      836.4
     ],
-    "sl": 865.45,
-    "tp": 1002.1,
+    "sl": 779.0,
+    "tp": 902.0,
     "rr": 2.0,
-    "latest_close": 911.0
+    "latest_close": 820.0
   }
 }
