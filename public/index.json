@@ -5,40 +5,40 @@
   "failed": 0,
   "stocks": [
     {
+      "code": "1308",
+      "name": "亞聚",
+      "status": "success",
+      "file": "output/1308.json"
+    },
+    {
       "code": "2939",
       "name": "永邑-KY",
       "status": "success",
       "file": "output/2939.json"
     },
     {
-      "code": "3135",
-      "name": "凌航",
+      "code": "8464",
+      "name": "億豐",
       "status": "success",
-      "file": "output/3135.json"
+      "file": "output/8464.json"
     },
     {
-      "code": "8996",
-      "name": "高力",
+      "code": "2616",
+      "name": "山隆",
       "status": "success",
-      "file": "output/8996.json"
+      "file": "output/2616.json"
     },
     {
-      "code": "6230",
-      "name": "尼得科超眾",
+      "code": "1710",
+      "name": "東聯",
       "status": "success",
-      "file": "output/6230.json"
+      "file": "output/1710.json"
     },
     {
-      "code": "6770",
-      "name": "力積電",
+      "code": "1304",
+      "name": "台聚",
       "status": "success",
-      "file": "output/6770.json"
-    },
-    {
-      "code": "7769",
-      "name": "鴻勁",
-      "status": "success",
-      "file": "output/7769.json"
+      "file": "output/1304.json"
     }
   ]
 }
