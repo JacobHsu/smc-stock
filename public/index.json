@@ -5,10 +5,10 @@
   "failed": 0,
   "stocks": [
     {
-      "code": "6139",
-      "name": "亞翔",
+      "code": "9136",
+      "name": "巨騰-DR",
       "status": "success",
-      "file": "output/6139.json"
+      "file": "output/9136.json"
     },
     {
       "code": "3135",
@@ -17,28 +17,28 @@
       "file": "output/3135.json"
     },
     {
-      "code": "2889",
-      "name": "國票金",
+      "code": "6770",
+      "name": "力積電",
       "status": "success",
-      "file": "output/2889.json"
+      "file": "output/6770.json"
     },
     {
-      "code": "9136",
-      "name": "巨騰-DR",
+      "code": "2344",
+      "name": "華邦電",
       "status": "success",
-      "file": "output/9136.json"
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "status": "success",
-      "file": "output/6669.json"
+      "file": "output/2344.json"
     },
     {
       "code": "4967",
       "name": "十銓",
       "status": "success",
       "file": "output/4967.json"
+    },
+    {
+      "code": "6706",
+      "name": "惠特",
+      "status": "success",
+      "file": "output/6706.json"
     }
   ]
 }

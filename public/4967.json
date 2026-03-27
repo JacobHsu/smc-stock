@@ -1,20 +1,12 @@
 {
   "symbol": "4967",
-  "generated_at": "2026-03-26T01:53:25.793714",
+  "generated_at": "2026-03-27T01:53:11.775162",
   "data_range": {
-    "start": "2025-11-26",
-    "end": "2026-03-25",
+    "start": "2025-11-27",
+    "end": "2026-03-26",
     "count": 76
   },
   "candles": [
-    {
-      "date": "2025-11-26",
-      "open": 133.0,
-      "high": 133.0,
-      "low": 124.0,
-      "close": 124.5,
-      "volume": 5397203
-    },
     {
       "date": "2025-11-27",
       "open": 126.5,
@@ -614,53 +606,61 @@
       "low": 252.5,
       "close": 254.5,
       "volume": 19031864
+    },
+    {
+      "date": "2026-03-26",
+      "open": 248.5,
+      "high": 251.0,
+      "low": 229.5,
+      "close": 229.5,
+      "volume": 18210581
     }
   ],
   "swing_points": [
     {
-      "index": 7,
+      "index": 6,
       "date": "2025-12-05",
       "type": "swing_low",
       "level": 125.5
     },
     {
-      "index": 8,
+      "index": 7,
       "date": "2025-12-08",
       "type": "swing_high",
       "level": 143.5
     },
     {
-      "index": 13,
+      "index": 12,
       "date": "2025-12-15",
       "type": "swing_low",
       "level": 130.0
     },
     {
-      "index": 14,
+      "index": 13,
       "date": "2025-12-16",
       "type": "swing_low",
       "level": 130.0
     },
     {
-      "index": 29,
+      "index": 28,
       "date": "2026-01-08",
       "type": "swing_high",
       "level": 212.5
     },
     {
-      "index": 33,
+      "index": 32,
       "date": "2026-01-14",
       "type": "swing_low",
       "level": 191.0
     },
     {
-      "index": 44,
+      "index": 43,
       "date": "2026-01-29",
       "type": "swing_high",
       "level": 266.5
     },
     {
-      "index": 63,
+      "index": 62,
       "date": "2026-03-09",
       "type": "swing_low",
       "level": 170.5
@@ -668,233 +668,233 @@
   ],
   "fvg": [
     {
-      "index": 6,
+      "index": 5,
       "date": "2025-12-04",
       "type": "bearish",
       "top": 131.0,
       "bottom": 129.0,
-      "start_index": 4
+      "start_index": 3
     },
     {
-      "index": 8,
+      "index": 7,
       "date": "2025-12-08",
       "type": "bullish",
       "top": 134.5,
       "bottom": 129.0,
-      "start_index": 6
+      "start_index": 5
     },
     {
-      "index": 9,
+      "index": 8,
       "date": "2025-12-09",
       "type": "bullish",
       "top": 136.5,
       "bottom": 133.0,
-      "start_index": 7
+      "start_index": 6
     },
     {
-      "index": 14,
+      "index": 13,
       "date": "2025-12-16",
       "type": "bearish",
       "top": 136.5,
       "bottom": 135.5,
-      "start_index": 12
+      "start_index": 11
     },
     {
-      "index": 16,
+      "index": 15,
       "date": "2025-12-18",
       "type": "bullish",
       "top": 137.5,
       "bottom": 135.5,
-      "start_index": 14
+      "start_index": 13
     },
     {
-      "index": 19,
+      "index": 18,
       "date": "2025-12-23",
       "type": "bullish",
       "top": 148.0,
       "bottom": 142.0,
-      "start_index": 17
+      "start_index": 16
     },
     {
-      "index": 20,
+      "index": 19,
       "date": "2025-12-24",
       "type": "bullish",
       "top": 151.0,
       "bottom": 149.5,
-      "start_index": 18
+      "start_index": 17
     },
     {
-      "index": 21,
+      "index": 20,
       "date": "2025-12-26",
       "type": "bullish",
       "top": 158.0,
       "bottom": 157.0,
-      "start_index": 19
+      "start_index": 18
     },
     {
-      "index": 23,
+      "index": 22,
       "date": "2025-12-30",
       "type": "bullish",
       "top": 166.0,
       "bottom": 164.5,
-      "start_index": 21
+      "start_index": 20
     },
     {
-      "index": 24,
+      "index": 23,
       "date": "2025-12-31",
       "type": "bullish",
       "top": 175.5,
       "bottom": 171.5,
-      "start_index": 22
+      "start_index": 21
     },
     {
-      "index": 25,
+      "index": 24,
       "date": "2026-01-02",
       "type": "bullish",
       "top": 183.5,
       "bottom": 174.0,
-      "start_index": 23
+      "start_index": 22
     },
     {
-      "index": 26,
+      "index": 25,
       "date": "2026-01-05",
       "type": "bullish",
       "top": 192.0,
       "bottom": 189.0,
-      "start_index": 24
+      "start_index": 23
     },
     {
-      "index": 33,
+      "index": 32,
       "date": "2026-01-14",
       "type": "bearish",
       "top": 197.0,
       "bottom": 195.0,
-      "start_index": 31
+      "start_index": 30
     },
     {
-      "index": 35,
+      "index": 34,
       "date": "2026-01-16",
       "type": "bullish",
       "top": 199.0,
       "bottom": 195.0,
-      "start_index": 33
+      "start_index": 32
     },
     {
-      "index": 36,
+      "index": 35,
       "date": "2026-01-19",
       "type": "bullish",
       "top": 209.5,
       "bottom": 197.0,
-      "start_index": 34
+      "start_index": 33
     },
     {
-      "index": 38,
+      "index": 37,
       "date": "2026-01-21",
       "type": "bearish",
       "top": 209.5,
       "bottom": 209.0,
-      "start_index": 36
+      "start_index": 35
     },
     {
-      "index": 41,
+      "index": 40,
       "date": "2026-01-26",
       "type": "bullish",
       "top": 215.0,
+      "bottom": 210.0,
+      "start_index": 38
+    },
+    {
+      "index": 41,
+      "date": "2026-01-27",
+      "type": "bullish",
+      "top": 218.0,
       "bottom": 210.0,
       "start_index": 39
     },
     {
       "index": 42,
-      "date": "2026-01-27",
-      "type": "bullish",
-      "top": 218.0,
-      "bottom": 210.0,
-      "start_index": 40
-    },
-    {
-      "index": 43,
       "date": "2026-01-28",
       "type": "bullish",
       "top": 249.5,
       "bottom": 225.5,
-      "start_index": 41
+      "start_index": 40
     },
     {
-      "index": 53,
+      "index": 52,
       "date": "2026-02-11",
       "type": "bearish",
       "top": 209.5,
       "bottom": 203.0,
-      "start_index": 51
+      "start_index": 50
     },
     {
-      "index": 55,
+      "index": 54,
       "date": "2026-02-24",
       "type": "bullish",
       "top": 206.0,
       "bottom": 203.0,
-      "start_index": 53
+      "start_index": 52
     },
     {
-      "index": 60,
+      "index": 59,
       "date": "2026-03-04",
       "type": "bearish",
       "top": 194.0,
       "bottom": 193.0,
-      "start_index": 58
+      "start_index": 57
     },
     {
-      "index": 63,
+      "index": 62,
       "date": "2026-03-09",
       "type": "bearish",
       "top": 185.5,
       "bottom": 182.5,
-      "start_index": 61
+      "start_index": 60
     },
     {
-      "index": 65,
+      "index": 64,
       "date": "2026-03-11",
       "type": "bullish",
       "top": 183.5,
       "bottom": 182.5,
-      "start_index": 63
+      "start_index": 62
     },
     {
-      "index": 68,
+      "index": 67,
       "date": "2026-03-16",
       "type": "bullish",
       "top": 202.5,
       "bottom": 201.0,
-      "start_index": 66
+      "start_index": 65
     },
     {
-      "index": 69,
+      "index": 68,
       "date": "2026-03-17",
       "type": "bullish",
       "top": 215.5,
       "bottom": 202.5,
-      "start_index": 67
+      "start_index": 66
     },
     {
-      "index": 70,
+      "index": 69,
       "date": "2026-03-18",
       "type": "bullish",
       "top": 236.5,
       "bottom": 212.5,
-      "start_index": 68
+      "start_index": 67
     },
     {
-      "index": 71,
+      "index": 70,
       "date": "2026-03-19",
       "type": "bullish",
       "top": 246.0,
       "bottom": 229.0,
-      "start_index": 69
+      "start_index": 68
     }
   ],
   "bos_choch": [
     {
-      "index": 71,
+      "index": 70,
       "date": "2026-03-19",
       "type": "BOS",
       "direction": "bullish",
@@ -904,12 +904,12 @@
   "setup": {
     "direction": "WAIT",
     "entry_zone": [
-      249.41,
-      259.59
+      224.91,
+      234.09
     ],
-    "sl": 241.77,
-    "tp": 279.95,
+    "sl": 218.02,
+    "tp": 252.45,
     "rr": 2.0,
-    "latest_close": 254.5
+    "latest_close": 229.5
   }
 }
