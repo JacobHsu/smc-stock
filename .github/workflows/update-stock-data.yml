@@ -1,10 +1,10 @@
 name: Update Stock Data
 
 on:
-  # 台灣時間週一到週五 09:15 (UTC+8)
+  # 台灣時間週一 09:15 (UTC+8)
   # GitHub Actions 使用 UTC 時間,所以需要減 8 小時 = 01:15 UTC
   schedule:
-    - cron: '15 1 * * 1-5'  # 週一到週五 01:15 UTC = 09:15 台灣時間
+    - cron: '15 1 * * 1'  # 週一 01:15 UTC = 09:15 台灣時間
   
   # 允許手動觸發
   workflow_dispatch:
@@ -40,8 +40,13 @@ jobs:
       
       - name: Copy JSON files to public directory
         run: |
-          cp -f backend/output/*.json public/
-          echo "✅ Copied $(ls backend/output/*.json | wc -l) JSON files to public/"
+          if [ -d backend/output ] && ls backend/output/*.json 1>/dev/null 2>&1; then
+            cp -f backend/output/*.json public/
+            echo "✅ Copied $(ls backend/output/*.json | wc -l) JSON files to public/"
+          else
+            echo "⚠️ No JSON files found in backend/output/, skipping copy"
+            ls -la backend/ || true
+          fi
       
       - name: Check for changes
         id: check_changes
